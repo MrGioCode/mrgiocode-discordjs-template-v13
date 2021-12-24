@@ -19,7 +19,7 @@
 
 > [Vultr - $100 FREE](https://vultr.com)
 
-> [Linode - $100 FREE](https://linode)
+> [Linode - $100 FREE](https://linode.com)
 
 > [DigitalOcean - $100 FREE](https://digitalocean.com)
 
